@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tomasttavares
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tomasttavares@gmail.com
 
 <!---
